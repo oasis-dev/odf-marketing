@@ -4,6 +4,13 @@
 *An OASIS Open Project*
 -------------------------------------------
 
+lines testing comment tags 
+This is line 1 not a comment 
+[//]: # (This is line 2 commented with md link) 
+[comment]: # (This is line 3 comment with md link) 
+<!--- this is line 4 comment with html tags ---> 
+This is line 5, not a comment 
+
 
 |*Charter section* |   |
 |-----------------------------------|-----------------------------------|
